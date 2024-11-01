@@ -751,7 +751,7 @@ footer{
     line-height: 20px;
     font-size: 14px;
     cursor: pointer;
-    text-wrap: nowrap;
+    text-wrap: nowrap; width: 100%;
  }
  
  .foot .third .privacy p:hover{
@@ -873,6 +873,7 @@ footer{
          padding: 0 16px;
          position: absolute;
          justify-content: center;
+       
         }
         .wrapper .front .front-in h1{
             margin-bottom: 24px;
