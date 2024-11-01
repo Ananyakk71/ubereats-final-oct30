@@ -873,7 +873,6 @@ footer{
          padding: 0 16px;
          position: absolute;
          justify-content: center;
-       
         }
         .wrapper .front .front-in h1{
             margin-bottom: 24px;
@@ -883,7 +882,6 @@ footer{
             font-family: 'ubermovebold', sans-serif;
             margin-left: 0px;
             margin-top: 0px;
-            white-space: nowrap;
         }
         .front-in .search{
            display: block;
